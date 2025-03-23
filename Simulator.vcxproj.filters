@@ -45,6 +45,9 @@
     <ClInclude Include="shader_manager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="mathgl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="triangle.vert.hlsl">
